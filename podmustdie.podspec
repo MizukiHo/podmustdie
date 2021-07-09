@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name = "podmustdie"
-  s.version = "1.0.1"
-  s.platform = :ios, '10.0'
+  s.version = "0.0.1"
+  s.platform = :ios, '13.0'
   s.summary = "FAQ the cocoapod, why do you live?"
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.author = "MizMiz cuwai"
